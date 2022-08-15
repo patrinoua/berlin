@@ -10,3 +10,8 @@ A collection of Resources about Berlin
 ## exhibitions
 
 https://www.berlin.de/en/exhibitions/
+
+
+## restaurants
+
+- Anil's list https://gist.github.com/cavvia/2e9e3e7df0cd7d22b70c8eeb11d9f2c1
