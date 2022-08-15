@@ -2,6 +2,7 @@
 A collection of Resources about Berlin
 
 ## Museums
+- 💜 Museum Barberini in Potsdam 
 
 - https://www.museumsportal-berlin.de/en/
 
